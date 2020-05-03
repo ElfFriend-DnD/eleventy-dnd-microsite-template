@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Campaign Microsite</title>
+	<subtitle>A D&amp;D Microsite for session logs, primers, etc.</subtitle>
+	
+	<link href="https://akrigline.github.io/feed.xml" rel="self"/>
+	<link href="https://akrigline.github.io/eleventy-dnd-microsite-template"/>
+	<updated>2018-05-01T00:00:00-00:00</updated>
+	<id>https://akrigline.github.io/eleventy-dnd-microsite-template</id>
+	<author>
+		<name>Andrew Krigline</name>
+		<email></email>
+	</author>
+	
+	<entry>
+		<title>Beginnings</title>
+		<link href="https://akrigline.github.io/posts/firstpost/"/>
+		<updated>2018-05-01T00:00:00-00:00</updated>
+		<id>https://akrigline.github.io/posts/firstpost/</id>
+		<content type="text">The first of many session logs.</content>
+	</entry>
+</feed>
