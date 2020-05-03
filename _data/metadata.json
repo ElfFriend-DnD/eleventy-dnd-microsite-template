@@ -1,15 +1,14 @@
 {
-  "title": "Your Blog Name",
-  "url": "https://myurl.com/",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "title": "Campaign Microsite",
+  "url": "https://akrigline.github.io/eleventy-dnd-microsite-template",
+  "description": "This is a template for a Homebrewery Styled D&D Microsite",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "A D&D Microsite for session logs, primers, etc.",
     "filename": "feed.xml",
-    "path": "/feed/feed.xml",
-    "id": "https://myurl.com/"
+    "path": "/feed.xml",
+    "id": "https://akrigline.github.io/eleventy-dnd-microsite-template"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com"
+    "name": "Andrew Krigline"
   }
 }
