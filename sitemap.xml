@@ -2,32 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://akrigline.github.io/posts/firstpost/</loc>
+    <loc>https://akrigline.github.io/eleventy-dnd-microsite-template/posts/firstpost/</loc>
     <lastmod>2018-05-01</lastmod>
   </url>
   
   <url>
-    <loc>https://akrigline.github.io/</loc>
+    <loc>https://akrigline.github.io/eleventy-dnd-microsite-template/</loc>
     <lastmod>2020-05-03</lastmod>
   </url>
   
   <url>
-    <loc>https://akrigline.github.io/page-list/</loc>
+    <loc>https://akrigline.github.io/eleventy-dnd-microsite-template/page-list/</loc>
     <lastmod>2020-05-03</lastmod>
   </url>
   
   <url>
-    <loc>https://akrigline.github.io/primer/</loc>
+    <loc>https://akrigline.github.io/eleventy-dnd-microsite-template/primer/</loc>
     <lastmod>2020-05-03</lastmod>
   </url>
   
   <url>
-    <loc>https://akrigline.github.io/tags/</loc>
+    <loc>https://akrigline.github.io/eleventy-dnd-microsite-template/tags/</loc>
     <lastmod>2020-05-03</lastmod>
   </url>
   
   <url>
-    <loc>https://akrigline.github.io/tags/session/</loc>
+    <loc>https://akrigline.github.io/eleventy-dnd-microsite-template/tags/session/</loc>
     <lastmod>2020-05-03</lastmod>
   </url>
 </urlset>

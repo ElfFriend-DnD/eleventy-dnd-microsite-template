@@ -3,7 +3,7 @@
 	<title>Campaign Microsite</title>
 	<subtitle>A D&amp;D Microsite for session logs, primers, etc.</subtitle>
 	
-	<link href="https://akrigline.github.io/feed.xml" rel="self"/>
+	<link href="https://akrigline.github.io/eleventy-dnd-microsite-template/feed.xml" rel="self"/>
 	<link href="https://akrigline.github.io/eleventy-dnd-microsite-template"/>
 	<updated>2018-05-01T00:00:00-00:00</updated>
 	<id>https://akrigline.github.io/eleventy-dnd-microsite-template</id>
@@ -14,9 +14,9 @@
 	
 	<entry>
 		<title>Beginnings</title>
-		<link href="https://akrigline.github.io/posts/firstpost/"/>
+		<link href="https://akrigline.github.io/eleventy-dnd-microsite-template/posts/firstpost/"/>
 		<updated>2018-05-01T00:00:00-00:00</updated>
-		<id>https://akrigline.github.io/posts/firstpost/</id>
+		<id>https://akrigline.github.io/eleventy-dnd-microsite-template/posts/firstpost/</id>
 		<content type="text">The first of many session logs.</content>
 	</entry>
 </feed>
