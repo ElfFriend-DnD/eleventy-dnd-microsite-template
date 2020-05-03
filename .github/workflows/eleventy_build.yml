@@ -1,5 +1,9 @@
 name: Eleventy Build
-on: [push]
+
+on:
+  push:
+    branches:
+      - master
 
 jobs:
   build_deploy:
@@ -20,8 +24,8 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-node-
 
-
-      - run: npm run build
+      - run: npm ci
+      - run: npx eleventy
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
